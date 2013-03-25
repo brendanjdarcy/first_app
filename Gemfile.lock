@@ -80,7 +80,11 @@ GEM
     rdoc (3.12.2)
       json (~> 1.4)
     sass (3.2.7)
+<<<<<<< HEAD
     sass-rails (3.2.4)
+=======
+    sass-rails (3.2.6)
+>>>>>>> 1bab32b6d43878083be2500ef0fc020330f7aa0c
       railties (~> 3.2.0)
       sass (>= 3.1.10)
       tilt (~> 1.3)
@@ -89,24 +93,43 @@ GEM
       multi_json (~> 1.0)
       rack (~> 1.0)
       tilt (~> 1.1, != 1.3.0)
+<<<<<<< HEAD
     sqlite3 (1.3.5-x86-mingw32)
+=======
+    sqlite3 (1.3.7-x86-mingw32)
+>>>>>>> 1bab32b6d43878083be2500ef0fc020330f7aa0c
     thor (0.17.0)
     tilt (1.3.6)
     treetop (1.4.12)
       polyglot
       polyglot (>= 0.3.1)
     tzinfo (0.3.37)
+<<<<<<< HEAD
     uglifier (1.2.3)
       execjs (>= 0.3.0)
       multi_json (>= 1.0.2)
+=======
+    uglifier (1.3.0)
+      execjs (>= 0.3.0)
+      multi_json (~> 1.0, >= 1.0.2)
+>>>>>>> 1bab32b6d43878083be2500ef0fc020330f7aa0c
 
 PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+<<<<<<< HEAD
   coffee-rails (= 3.2.2)
   jquery-rails
   rails (= 3.2.13)
   sass-rails (= 3.2.4)
   sqlite3 (= 1.3.5)
   uglifier (= 1.2.3)
+=======
+  coffee-rails (~> 3.2.1)
+  jquery-rails
+  rails (= 3.2.13)
+  sass-rails (~> 3.2.3)
+  sqlite3
+  uglifier (>= 1.0.3)
+>>>>>>> 1bab32b6d43878083be2500ef0fc020330f7aa0c

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 FirstApp::Application.configure do
+=======
+RailsinstallerDemo::Application.configure do
+>>>>>>> 1bab32b6d43878083be2500ef0fc020330f7aa0c
   # Settings specified here will take precedence over those in config/application.rb
 
   # Code is not reloaded between requests
