@@ -3,3 +3,6 @@
 This is the first applicaiton for ruby on rails tutorial
 
 yeah!!!!
+
+
+modified readme doc!!!!!!!!!!!!!!!!!!!!!!!!!!!
